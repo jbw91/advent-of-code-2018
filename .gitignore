@@ -1,0 +1,4 @@
+/node_modules
+input.txt
+.vscode/
+yarn.lock

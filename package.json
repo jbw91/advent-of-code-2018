@@ -1,0 +1,13 @@
+{
+  "name": "advent-of-code-2018",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "John Woodruff",
+    "email": "johnwoodruff91@gmail.com"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.12"
+  }
+}
